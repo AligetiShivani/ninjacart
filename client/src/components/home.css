@@ -1,0 +1,26 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.my-body {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+h2 {
+    font-size: 2rem;
+    padding-bottom: 10px;
+}
+
+div {
+    padding-bottom: 5px;
+}
+
+.conte {
+    font-size: 1.5rem;
+}
+
+.myimage {
+    height: 200px;
+    width: 400px;
+}
